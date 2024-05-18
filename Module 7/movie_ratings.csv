@@ -1,0 +1,403 @@
+,movie,year,imdb,metascores,votes
+0,Interstellar,2014,8.7,74,2.1M
+1,Guardians of the Galaxy,2014,8.0,76,1.3M
+2,Gone Girl,2014,8.1,79,1.1M
+3,Whiplash,2014,8.5,89,981K
+4,Captain America: The Winter Soldier,2014,7.7,70,896K
+5,The Grand Budapest Hotel,2014,8.1,88,883K
+6,The Imitation Game,2014,8.0,71,822K
+7,X-Men: Days of Future Past,2014,7.9,75,743K
+8,John Wick,2014,7.4,68,736K
+9, Edge of Tomorrow,2014,7.9,71,733K
+10, Kingsman: The Secret Service,2014,7.7,60,713K
+11, Birdman or (The Unexpected Virtue of Ignorance),2014,7.7,87,665K
+12, Nightcrawler,2014,7.8,76,601K
+13, Ex Machina,2014,7.7,78,584K
+14, The Hobbit: The Battle of the Five Armies,2014,7.4,59,569K
+15, Fury,2014,7.6,64,544K
+16, The Amazing Spider-Man 2,2014,6.6,53,535K
+17, Lucy,2014,6.4,62,532K
+18, American Sniper,2014,7.3,73,527K
+19, The Maze Runner,2014,6.8,57,505K
+20, The Hunger Games: Mockingjay - Part 1,2014,6.6,64,500K
+21, Big Hero 6,2014,7.8,74,499K
+22, Divergent,2014,6.6,48,487K
+23, The Theory of Everything,2014,7.7,71,480K
+24, Dawn of the Planet of the Apes,2014,7.6,79,466K
+25, Godzilla,2014,6.4,62,437K
+26, The Equalizer,2014,7.2,57,417K
+27, 22 Jump Street,2014,7.0,71,404K
+28, The Fault in Our Stars,2014,7.7,69,400K
+29, Maleficent,2014,6.9,56,399K
+30, The Lego Movie,2014,7.7,83,387K
+31, Boyhood,2014,7.9,100,366K
+32, How to Train Your Dragon 2,2014,7.8,77,362K
+33, The Interview,2014,6.5,52,353K
+34, Transformers: Age of Extinction,2014,5.6,32,331K
+35, Neighbors,2014,6.3,68,328K
+36, 300: Rise of an Empire,2014,6.2,48,315K
+37, Predestination,2014,7.4,69,303K
+38, Non-Stop,2014,6.9,56,276K
+39, It Follows,2014,6.8,83,267K
+40, Noah,2014,5.8,68,266K
+41, The Babadook,2014,6.8,86,246K
+42, RoboCop,2014,6.1,52,239K
+43, Transcendence,2014,6.2,42,238K
+44, Chef,2014,7.3,68,231K
+45,Mad Max: Fury Road,2015,8.1,90,1.1M
+46,Star Wars: Episode VII - The Force Awakens,2015,7.8,80,971K
+47,The Martian,2015,8.0,80,919K
+48,Avengers: Age of Ultron,2015,7.3,66,918K
+49,The Revenant,2015,8.0,76,870K
+50,Inside Out,2015,8.1,94,781K
+51,Ant-Man,2015,7.2,64,719K
+52,Jurassic World,2015,6.9,59,677K
+53,The Hateful Eight,2015,7.8,68,656K
+54, Spotlight,2015,8.1,93,500K
+55, The Big Short,2015,7.8,81,481K
+56, Sicario,2015,7.7,82,473K
+57, Spectre,2015,6.8,60,465K
+58, Room,2015,8.1,86,448K
+59, Fast & Furious 7,2015,7.1,67,414K
+60, Mission: Impossible - Rogue Nation,2015,7.4,75,409K
+61, The Hunger Games: Mockingjay - Part 2,2015,6.5,65,371K
+62, Fifty Shades of Grey,2015,4.2,46,335K
+63, The Man from U.N.C.L.E.,2015,7.2,56,331K
+64, Bridge of Spies,2015,7.6,81,327K
+65, Creed,2015,7.6,82,310K
+66, The VVitch: A New-England Folktale,2015,7.0,84,299K
+67, The Lobster,2015,7.1,82,293K
+68, Terminator Genisys,2015,6.3,38,292K
+69, Maze Runner: The Scorch Trials,2015,6.3,43,274K
+70, Focus,2015,6.6,56,274K
+71, The Intern,2015,7.1,51,273K
+72, Chappie,2015,6.8,41,269K
+73, Minions,2015,6.4,56,258K
+74, Spy,2015,7.0,75,258K
+75, Southpaw,2015,7.3,57,257K
+76, San Andreas,2015,6.1,43,256K
+77, Insurgent,2015,6.2,42,254K
+78, Ted 2,2015,6.3,48,233K
+79, Everest,2015,7.1,64,232K
+80, Straight Outta Compton,2015,7.8,72,218K
+81, The Age of Adaline,2015,7.2,51,202K
+82, Legend,2015,6.9,55,201K
+83, The Danish Girl,2015,7.1,66,199K
+84, Jupiter Ascending,2015,5.3,40,194K
+85, Black Mass,2015,6.9,68,192K
+86, Tomorrowland,2015,6.4,60,191K
+87, Cinderella,2015,6.9,67,190K
+88, Steve Jobs,2015,7.2,82,178K
+89,Deadpool,2016,8.0,65,1.1M
+90,Captain America: Civil War,2016,7.8,75,846K
+91,Doctor Strange,2016,7.5,72,801K
+92,Arrival,2016,7.9,81,765K
+93,Batman v Superman: Dawn of Justice,2016,6.5,44,751K
+94,Suicide Squad,2016,5.9,40,720K
+95,Rogue One,2016,7.8,65,684K
+96,La La Land,2016,8.0,94,665K
+97, Hacksaw Ridge,2016,8.1,71,590K
+98, Split,2016,7.3,63,547K
+99, Zootopia,2016,8.0,78,543K
+100, Fantastic Beasts and Where to Find Them,2016,7.2,66,506K
+101, X-Men: Apocalypse,2016,6.9,52,459K
+102, Passengers,2016,7.0,41,445K
+103, Moana,2016,7.6,81,375K
+104, The Nice Guys,2016,7.4,70,370K
+105, 10 Cloverfield Lane,2016,7.2,76,353K
+106, Moonlight,2016,7.4,99,330K
+107, Now You See Me 2,2016,6.4,46,319K
+108, The Accountant,2016,7.3,51,318K
+109, Your Name.,2016,8.4,81,317K
+110, Manchester by the Sea,2016,7.8,96,312K
+111, Nocturnal Animals,2016,7.5,67,303K
+112, Finding Dory,2016,7.2,77,302K
+113, Don't Breathe,2016,7.1,71,299K
+114, The Conjuring 2,2016,7.3,65,299K
+115, Sully,2016,7.4,74,297K
+116, The Jungle Book,2016,7.4,77,291K
+117, Me Before You,2016,7.4,51,285K
+118, Warcraft: The Beginning,2016,6.7,32,278K
+119, Star Trek Beyond,2016,7.0,68,258K
+120, Train to Busan,2016,7.6,73,256K
+121, Hidden Figures,2016,7.8,74,254K
+122, War Dogs,2016,7.1,57,252K
+123, Hell or High Water,2016,7.6,88,251K
+124, Lion,2016,8.0,69,250K
+125, Ghostbusters,2016,6.8,60,244K
+126, Jason Bourne,2016,6.6,58,241K
+127, Captain Fantastic,2016,7.8,72,234K
+128, The Magnificent Seven,2016,6.9,54,228K
+129, The Secret Life of Pets,2016,6.5,61,217K
+130, Central Intelligence,2016,6.3,52,212K
+131, Sausage Party,2016,6.1,66,209K
+132, Assassin's Creed,2016,5.6,36,208K
+133,Logan,2017,8.1,77,827K
+134,Thor: Ragnarok,2017,7.9,74,813K
+135,Guardians of the Galaxy Vol. 2,2017,7.6,67,756K
+136,Dunkirk,2017,7.8,94,736K
+137,Spider-Man: Homecoming,2017,7.4,73,716K
+138,Wonder Woman,2017,7.3,76,698K
+139,Get Out,2017,7.8,85,691K
+140,Star Wars: Episode VIII - The Last Jedi,2017,6.9,84,670K
+141,Blade Runner 2049,2017,8.0,81,658K
+142, Baby Driver,2017,7.5,86,605K
+143, It,2017,7.3,69,603K
+144, Coco,2017,8.4,81,586K
+145," Three Billboards Outside Ebbing, Missouri",2017,8.1,88,553K
+146, John Wick: Chapter 2,2017,7.4,75,509K
+147, Justice League,2017,6.1,45,477K
+148, The Shape of Water,2017,7.3,87,446K
+149, Jumanji: Welcome to the Jungle,2017,6.9,58,436K
+150, Kingsman: The Golden Circle,2017,6.7,44,361K
+151, Kong: Skull Island,2017,6.7,62,345K
+152, Pirates of the Caribbean: Salazar's Revenge,2017,6.5,39,344K
+153, Beauty and the Beast,2017,7.1,65,333K
+154, Lady Bird,2017,7.4,93,326K
+155, Call Me by Your Name,2017,7.8,94,313K
+156, The Greatest Showman,2017,7.5,48,310K
+157, Alien: Covenant,2017,6.4,65,302K
+158, Murder on the Orient Express,2017,6.5,52,295K
+159, War for the Planet of the Apes,2017,7.4,82,280K
+160, Wind River,2017,7.7,73,279K
+161, Fast & Furious 8,2017,6.6,56,253K
+162, Life,2017,6.6,54,252K
+163, Mother!,2017,6.6,76,249K
+164, The Hitman's Bodyguard,2017,6.9,47,246K
+165," I, Tonya",2017,7.5,77,242K
+166, King Arthur: Legend of the Sword,2017,6.7,41,232K
+167, Ghost in the Shell,2017,6.3,52,227K
+168, Darkest Hour,2017,7.4,75,220K
+169, American Made,2017,7.1,65,207K
+170, Atomic Blonde,2017,6.7,63,206K
+171, The Mummy,2017,5.4,34,206K
+172, Baywatch,2017,5.5,37,201K
+173, Bright,2017,6.3,29,201K
+174,Avengers: Infinity War,2018,8.4,68,1.2M
+175,Black Panther,2018,7.3,88,834K
+176,Spider-Man: Into the Spider-Verse,2018,8.4,87,665K
+177,Deadpool 2,2018,7.6,66,642K
+178,Bohemian Rhapsody,2018,7.9,49,589K
+179,A Quiet Place,2018,7.5,82,580K
+180,Green Book,2018,8.2,69,565K
+181,Venom,2018,6.6,35,535K
+182,Aquaman,2018,6.8,55,519K
+183, Ready Player One,2018,7.4,64,483K
+184, Ant-Man and the Wasp,2018,7.0,70,447K
+185, A Star Is Born,2018,7.6,88,417K
+186, Bird Box,2018,6.6,51,384K
+187, Solo: A Star Wars Story,2018,6.9,62,378K
+188, Mission: Impossible - Fallout,2018,7.7,87,377K
+189, Hereditary,2018,7.3,87,375K
+190, Annihilation,2018,6.8,79,359K
+191, Jurassic World: Fallen Kingdom,2018,6.1,51,342K
+192, Incredibles 2,2018,7.5,80,329K
+193, Fantastic Beasts: The Crimes of Grindelwald,2018,6.5,52,307K
+194, BlacKkKlansman,2018,7.5,83,290K
+195, Game Night,2018,6.9,66,255K
+196, Ocean's Eight,2018,6.3,61,241K
+197, The Favourite,2018,7.5,91,230K
+198, Tomb Raider,2018,6.3,48,226K
+199, The Meg,2018,5.7,46,207K
+200, Upgrade,2018,7.5,67,206K
+201, First Man,2018,7.3,84,202K
+202, Red Sparrow,2018,6.6,53,201K
+203, The Equalizer 2,2018,6.7,50,196K
+204, Isle of Dogs,2018,7.8,82,190K
+205, Crazy Rich Asians,2018,6.9,74,189K
+206, Bumblebee,2018,6.7,66,187K
+207, Rampage,2018,6.1,45,184K
+208, Sugar Rush Online,2018,7.0,71,182K
+209, Searching,2018,7.6,71,179K
+210, The Nun,2018,5.3,46,169K
+211, Roma,2018,7.7,96,169K
+212, Halloween,2018,6.5,67,168K
+213, The Ballad of Buster Scruggs,2018,7.2,79,167K
+214, Soldado: The Soldier,2018,7.1,61,166K
+215, Bad Times at the El Royale,2018,7.1,60,164K
+216, A Simple Favor,2018,6.8,67,162K
+217,Joker,2019,8.4,59,1.5M
+218,Avengers: Endgame,2019,8.4,78,1.3M
+219,Parasite,2019,8.5,97,949K
+220,Once Upon a Time... in Hollywood,2019,7.6,84,841K
+221,Knives Out,2019,7.9,82,770K
+222,1917,2019,8.2,78,670K
+223,Captain Marvel,2019,6.8,64,608K
+224, Spider-Man: Far from Home,2019,7.4,69,553K
+225, Star Wars: The Rise of Skywalker,2019,6.4,53,491K
+226, Ford v Ferrari,2019,8.1,81,465K
+227, Jojo Rabbit,2019,7.9,58,439K
+228, The Irishman,2019,7.8,94,429K
+229, John Wick: Chapter 3 - Parabellum,2019,7.4,73,423K
+230, Midsommar,2019,7.1,72,399K
+231, The Gentlemen,2019,7.8,51,391K
+232, Shazam!,2019,7.0,71,383K
+233, Marriage Story,2019,7.9,94,345K
+234, Us,2019,6.8,81,339K
+235, Uncut Gems,2019,7.4,93,316K
+236, It Chapter Two,2019,6.5,58,300K
+237, Alita: Battle Angel,2019,7.3,53,292K
+238, El Camino: A Breaking Bad Movie,2019,7.3,72,290K
+239, Aladdin,2019,6.9,53,289K
+240, Jumanji: The Next Level,2019,6.7,58,281K
+241, Toy Story 4,2019,7.7,84,279K
+242, El hoyo,2019,7.0,73,270K
+243, The Lion King,2019,6.8,55,266K
+244, Glass,2019,6.6,43,266K
+245, Ad Astra,2019,6.5,80,259K
+246, The Lighthouse,2019,7.4,83,253K
+247, Little Women,2019,7.8,91,243K
+248, Fast & Furious Presents: Hobbs & Shaw,2019,6.5,60,235K
+249, Doctor Sleep,2019,7.3,59,217K
+250, Dark Phoenix,2019,5.7,43,204K
+251, Godzilla: King of the Monsters,2019,6.0,48,204K
+252, Zombieland: Double Tap,2019,6.7,55,201K
+253, 6 Underground,2019,6.1,41,196K
+254, Rocketman,2019,7.3,69,194K
+255, Frozen II,2019,6.8,64,193K
+256,Tenet,2020,7.3,69,588K
+257,Soul,2020,8.0,83,377K
+258,Wonder Woman 1984,2020,5.4,60,291K
+259,A Quiet Place Part II,2020,7.2,71,271K
+260,Birds of Prey,2020,6.1,60,264K
+261,Extraction,2020,6.8,56,261K
+262,The Invisible Man,2020,7.1,72,254K
+263, Enola Holmes,2020,6.6,68,218K
+264, Promising Young Woman,2020,7.5,72,210K
+265, Druk,2020,7.7,79,193K
+266, The Trial of the Chicago 7,2020,7.7,76,193K
+267, The Father,2020,8.2,88,191K
+268, The Old Guard,2020,6.7,70,183K
+269, Nomadland,2020,7.3,88,182K
+270, Palm Springs,2020,7.4,83,181K
+271, Bad Boys for Life,2020,6.5,59,174K
+272, Onward,2020,7.4,61,169K
+273, Mulan,2020,5.8,66,159K
+274, Sonic the Hedgehog,2020,6.5,47,158K
+275, Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,2020,6.6,68,153K
+276, The Devil All the Time,2020,7.1,55,152K
+277, I Care a Lot,2020,6.4,66,145K
+278, Love and Monsters,2020,6.9,63,145K
+279, Greenland,2020,6.4,64,133K
+280, The Hunt,2020,6.5,50,128K
+281, Greyhound,2020,7.0,64,114K
+282, Hamilton,2020,8.3,88,112K
+283, Eurovision Song Contest: The Story of Fire Saga,2020,6.5,50,102K
+284, I'm Thinking of Ending Things,2020,6.6,78,99K
+285, Project Power,2020,6.0,51,97K
+286, Spenser Confidential,2020,6.2,49,97K
+287, Underwater,2020,5.9,48,97K
+288, Minari,2020,7.4,89,96K
+289, News of the World,2020,6.8,73,95K
+290,Spider-Man: No Way Home,2021,8.2,71,872K
+291,Dune,2021,8.0,74,824K
+292,Don't Look Up,2021,7.2,49,598K
+293,No Time to Die,2021,7.3,68,443K
+294,Zack Snyder's Justice League,2021,7.9,54,436K
+295,Shang-Chi and the Legend of the Ten Rings,2021,7.4,71,433K
+296,Black Widow,2021,6.7,68,423K
+297,Free Guy,2021,7.1,62,422K
+298, The Suicide Squad,2021,7.2,72,406K
+299, Eternals,2021,6.3,52,384K
+300, Nobody,2021,7.4,64,322K
+301, Red Notice,2021,6.3,37,316K
+302, The Matrix Resurrections,2021,5.7,63,278K
+303, Cruella,2021,7.3,59,264K
+304, Encanto,2021,7.2,75,260K
+305, Venom: Let There Be Carnage,2021,5.9,49,257K
+306, Godzilla vs. Kong,2021,6.3,59,236K
+307, The Tomorrow War,2021,6.6,45,227K
+308, Ghostbusters: Afterlife,2021,7.0,45,213K
+309, Jungle Cruise,2021,6.6,50,211K
+310, Wrath of Man,2021,7.1,57,205K
+311, The Power of the Dog,2021,6.8,89,193K
+312, Luca,2021,7.4,71,192K
+313, The Black Phone,2021,6.9,65,191K
+314, Mortal Kombat,2021,6.0,44,189K
+315, Army of the Dead,2021,5.8,57,187K
+316, The Last Duel,2021,7.4,67,181K
+317, Last Night in Soho,2021,7.0,65,175K
+318, The King's Man,2021,6.3,44,172K
+319, Raya and the Last Dragon,2021,7.3,74,171K
+320, Nightmare Alley,2021,7.0,70,164K
+321, CODA,2021,8.0,72,163K
+322, Fast & Furious 9,2021,5.2,58,161K
+323, Old,2021,5.8,55,159K
+324, House of Gucci,2021,6.6,59,159K
+325, The French Dispatch,2021,7.1,75,150K
+326,The Batman,2022,7.8,72,779K
+327,Top Gun: Maverick,2022,8.2,78,686K
+328,Everything Everywhere All at Once,2022,7.8,81,527K
+329,Avatar: The Way of Water,2022,7.6,67,489K
+330,Doctor Strange in the Multiverse of Madness,2022,6.9,60,474K
+331,Glass Onion: A Knives Out Mystery,2022,7.1,81,437K
+332,Bullet Train,2022,7.3,49,420K
+333,Thor: Love and Thunder,2022,6.2,57,398K
+334, The Menu,2022,7.2,71,387K
+335, Black Panther 2: Wakanda Forever,2022,6.7,67,303K
+336, Black Adam,2022,6.2,41,272K
+337, Nope,2022,6.8,77,262K
+338, Uncharted,2022,6.3,45,256K
+339, The Northman,2022,7.0,82,251K
+340, The Banshees of Inisherin,2022,7.7,87,250K
+341, All Quiet on the Western Front,2022,7.8,76,243K
+342, The Gray Man,2022,6.5,49,236K
+343, Elvis,2022,7.3,64,232K
+344, The Adam Project,2022,6.7,55,230K
+345, Prey,2022,7.1,71,225K
+346, The Whale,2022,7.7,60,208K
+347, Jurassic World Dominion,2022,5.6,38,203K
+348, Death on the Nile,2022,6.3,52,187K
+349, Laal Singh Chaddha,2022,5.6,46,178K
+350, Barbarian,2022,7.0,78,178K
+351, Triangle of Sadness,2022,7.3,63,176K
+352, Puss in Boots: The Last Wish,2022,7.8,73,172K
+353, X,2022,6.5,80,170K
+354, Fantastic Beasts: The Secrets of Dumbledore,2022,6.2,47,169K
+355, RRR,2022,7.8,83,166K
+356, Babylon,2022,7.1,61,165K
+357, Scream,2022,6.3,60,158K
+358, The Lost City,2022,6.1,60,157K
+359, Smile,2022,6.5,68,156K
+360, A Man Called Otto,2022,7.5,51,156K
+361, Morbius,2022,5.1,35,152K
+362, Turning Red,2022,7.0,83,151K
+363,Oppenheimer,2023,8.3,90,691K
+364,Barbie,2023,6.9,80,519K
+365,Guardians of the Galaxy Volume 3,2023,7.9,64,376K
+366,Spider-Man: Across the Spider-Verse,2023,8.6,86,359K
+367,John Wick: Chapter 4,2023,7.7,78,329K
+368,Mission: Impossible - Dead Reckoning Part One,2023,7.7,81,241K
+369,The Super Mario Bros. Movie,2023,7.0,46,233K
+370,Killers of the Flower Moon,2023,7.6,89,227K
+371, Ant-Man and the Wasp: Quantumania,2023,6.1,48,225K
+372, Dungeons & Dragons: Honor Among Thieves,2023,7.2,72,222K
+373, The Flash,2023,6.7,55,207K
+374, Poor Things,2023,8.0,88,200K
+375, Indiana Jones and the Dial of Destiny,2023,6.5,58,195K
+376, Saltburn,2023,7.0,61,194K
+377, Leave the World Behind,2023,6.5,68,190K
+378, The Killer,2023,6.7,73,178K
+379, Air,2023,7.4,73,165K
+380, The Covenant,2023,7.5,63,159K
+381, Pathaan,2023,5.8,47,156K
+382, No Hard Feelings,2023,6.4,59,155K
+383, The Little Mermaid,2023,7.2,59,154K
+384, The Creator,2023,6.8,63,154K
+385, Extraction II,2023,7.0,57,145K
+386, Evil Dead Rise,2023,6.5,69,135K
+387, Napoleon,2023,6.4,64,129K
+388, The Holdovers,2023,8.0,82,126K
+389, Shazam! Fury of the Gods,2023,5.9,47,123K
+390, Wonka,2023,7.1,66,123K
+391, Elemental,2023,7.0,58,123K
+392, La sociedad de la nieve,2023,7.8,72,122K
+393, The Marvels,2023,5.6,50,119K
+394, Scream VI,2023,6.5,61,118K
+395, Fast X,2023,5.8,56,117K
+396, Knock at the Cabin,2023,6.1,63,114K
+397, Sound of Freedom,2023,7.7,36,111K
+398, Asteroid City,2023,6.5,75,110K
+399, A Haunting in Venice,2023,6.5,63,109K
+400, The Hunger Games: The Ballad of Songbirds & Snakes,2023,6.8,54,108K
+401, The Equalizer 3,2023,6.8,58,107K
